@@ -15,6 +15,12 @@
 <br />
 <br />
 
+### Competitive programming profiles
+<!-- COMPETITIVE-PROGRAMMING-PROFILES:START -->
+[<img align="left" alt="hackerrank" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
+[<img align="left" alt="leetcode" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
+<!-- COMPETITIVE-PROGRAMMING-PROFILES:END -->
+
 ### Languages and Tools:
 
 [<img align="left" alt="cpp" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
@@ -29,22 +35,14 @@
 <br />
 <br />
 
-### Competitive programming profiles
-<!-- COMPETITIVE-PROGRAMMING-PROFILES:START -->
-[<img align="left" alt="hackerrank" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
-[<img align="left" alt="leetcode" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
-<!-- COMPETITIVE-PROGRAMMING-PROFILES:END -->
-
-<br />
-<br />
-
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Easy way to sort an internal table in ascending & descending order both at the same time](https://blogs.sap.com/2020/07/28/easy-way-to-sort-an-internal-table-in-ascending-descending-order-both-at-the-same-time/)
 - [Easy way to hide/disable elements(Texts/Fields) in a View of a Web Dynpro Application](https://blogs.sap.com/2020/07/23/easy-way-to-hide-fields-in-a-view-of-a-web-dynpro-application/)
 - [Easy way to default position details in IT0000 screen through PA40, if EG/ESG/PERSA is changed at the OM side](https://blogs.sap.com/2020/07/20/easy-way-to-default-position-details-in-it0000-screen-through-pa40-if-eg-esg-persa-is-changed-at-the-om-side./)
 <!-- BLOG-POST-LIST:END -->
+
+![drystuffs's github stats](https://github-readme-stats.vercel.app/api?username=drystuffs&show_icons=true&theme=default)
 
 [twitter]: https://twitter.com/kallolathome
 [instagram]: https://www.instagram.com/drystuffs/
