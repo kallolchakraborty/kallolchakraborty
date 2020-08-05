@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a SAP ABAP Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of ML.
-- ⚡ Fun fact: I love drawing, guitar playing, digital art & photography.
+- ⚡ Fun facts: I love drawing, guitar playing, digital art & photography.
 
 ### Connect with me:
 
