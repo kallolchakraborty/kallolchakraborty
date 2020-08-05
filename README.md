@@ -1,6 +1,6 @@
 ### Hi there, I'm Kallol
 
-## I'm a Developer and a ML enthuasiast!
+## I'm a Developer and an ML enthuasiast!
 - 🔭 I’m currently working as a SAP ABAP Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of ML.
