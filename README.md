@@ -32,7 +32,6 @@
 
 [<img align="left" alt="hackerrank" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/240px-HackerRank_logo.png"/>][hackerrank]
 [<img align="left" alt="leetcode" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
-<br />
 ---
 
 ### 📕 Latest Blog Posts
