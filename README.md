@@ -13,14 +13,15 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
-### Languages, Libraries and Tools:
+### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/200px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode]
+[<img align="left" alt="cpp" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
+[<img align="left" alt="python" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"/>][python]
+[<img align="left" alt="SAP" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/64px-SAP_2011_logo.svg.png"/>][sapabap]
 [<img align="left" alt="git" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png"/>][git]
 [<img align="left" alt="gitHub" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Octicons-logo-github.svg/320px-Octicons-logo-github.svg.png"/>][github]
-[<img align="left" alt="SAP" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/64px-SAP_2011_logo.svg.png"/>][sapabap]
-[<img align="left" alt="eclipse" width="86px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
-[<img align="left" alt="python" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"/>][python]
+[<img align="left" alt="Visual Studio Code" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/200px-Visual_Studio_Code_1.35_icon.svg.png"/>][vscode]
+[<img align="left" alt="eclipse" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
 [<img align="left" alt="anaconda" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/500px-Conda_logo.svg.png"/>][anaconda]
 <br />
 <br />
@@ -46,4 +47,5 @@
 [eclipse]: https://en.wikipedia.org/wiki/Eclipse_(software)
 [python]: https://en.wikipedia.org/wiki/Python_(programming_language)
 [anaconda]: https://en.wikipedia.org/wiki/Anaconda_(Python_distribution)
+[cpp] https://en.wikipedia.org/wiki/C%2B%2B
 
