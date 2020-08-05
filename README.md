@@ -13,6 +13,7 @@
 [<img align="left" alt="Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -30,8 +31,8 @@
 
 ### Competitive programming profiles
 
-[<img align="left" alt="hackerrank" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/240px-HackerRank_logo.png"/>][hackerrank]
-[<img align="left" alt="leetcode" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
+[<img align="left" alt="hackerrank" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
+[<img align="left" alt="leetcode" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
 
 <br />
 <br />
