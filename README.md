@@ -33,9 +33,7 @@
 [<img align="left" alt="hackerrank" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/240px-HackerRank_logo.png"/>][hackerrank]
 [<img align="left" alt="leetcode" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
 
-<br />
 
----
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Easy way to sort an internal table in ascending & descending order both at the same time](https://blogs.sap.com/2020/07/28/easy-way-to-sort-an-internal-table-in-ascending-descending-order-both-at-the-same-time/)
