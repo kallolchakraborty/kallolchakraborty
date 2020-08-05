@@ -29,14 +29,14 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Easy way to sort an internal table in ascending & descending order both at the same time](https://blogs.sap.com/2020/07/28/easy-way-to-sort-an-internal-table-in-ascending-descending-order-both-at-the-same-time/)
 - [Easy way to hide/disable elements(Texts/Fields) in a View of a Web Dynpro Application](https://blogs.sap.com/2020/07/23/easy-way-to-hide-fields-in-a-view-of-a-web-dynpro-application/)
 - [Easy way to default position details in IT0000 screen through PA40, if EG/ESG/PERSA is changed at the OM side](https://blogs.sap.com/2020/07/20/easy-way-to-default-position-details-in-it0000-screen-through-pa40-if-eg-esg-persa-is-changed-at-the-om-side./)
 <!-- BLOG-POST-LIST:END -->
 
-### Competitive programming profiles
+### Competitive programming profiles:
 
 <!-- COMPETITIVE-PROGRAMMING-PROFILES:START -->
 [<img align="left" alt="hackerrank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
