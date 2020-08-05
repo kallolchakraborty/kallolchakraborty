@@ -30,10 +30,10 @@
 <br />
 
 ### Competitive programming profiles
-
+<!-- COMPETITIVE-PROGRAMMING-PROFILES:START -->
 [<img align="left" alt="hackerrank" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
 [<img align="left" alt="leetcode" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
-
+<!-- COMPETITIVE-PROGRAMMING-PROFILES:END -->
 
 <br />
 <br />
