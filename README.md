@@ -37,13 +37,6 @@
 - [Easy way to default position details in IT0000 screen through PA40, if EG/ESG/PERSA is changed at the OM side](https://blogs.sap.com/2020/07/20/easy-way-to-default-position-details-in-it0000-screen-through-pa40-if-eg-esg-persa-is-changed-at-the-om-side./)
 <!-- BLOG-POST-LIST:END -->
 
-### Competitive programming profiles:
-
-<!-- COMPETITIVE-PROGRAMMING-PROFILES:START -->
-[<img align="left" alt="hackerrank" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/480px-HackerRank_logo.png"/>][hackerrank]
-[<img align="left" alt="leetcode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"/>][leetcode]
-<!-- COMPETITIVE-PROGRAMMING-PROFILES:END -->
-
 [twitter]: https://twitter.com/kallolathome
 [instagram]: https://www.instagram.com/drystuffs/
 [linkedin]: https://www.linkedin.com/in/kallol-chakraborty-9728a699/
