@@ -9,7 +9,6 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -30,6 +29,8 @@
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 
+- [Easy ways to create and populate range tables in ABAP 7.4 onwards](https://blogs.sap.com/2021/05/19/easy-ways-to-populate-range-tables-in-abap/)
+- [Easy way to populate/fetch column names from internal table](https://blogs.sap.com/2021/03/24/easy-way-to-populate-fetch-column-names-from-internal-table/)
 - [Easy way to create custom country-specific replication classes in the PTP framework](https://blogs.sap.com/2020/09/09/easy-way-to-deal-with-the-replication-classes-in-the-ptp-framework-abap-context/)
 - [Easy way to fix '(\CLASS=CX_HRPA_VIOLATED_ASSERTION)' exception while replicating an employee from EC to EC Payroll system through Point-to-Point Integration](https://blogs.sap.com/2020/09/03/easy-way-to-fix-cx_hrpa_violated_assertion-exception-while-replicating-employees-from-ec-to-ecp-system-through-p2p/)
 - [Easy Way to get the SAP TR/Task(Request/Task) details](https://blogs.sap.com/2020/09/03/easy-way-to-get-the-request-task-details/)
