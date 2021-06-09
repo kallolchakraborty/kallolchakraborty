@@ -20,9 +20,8 @@
 [<img align="left" alt="eclipse" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
 
 [<img align="left" alt="cpp" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
-[<img align="left" alt="python" width="42px" src="https://github.com/numpy/numpy/blob/master/branding/icons/primary/numpylogo.svg"/>][python]
-[<img align="left" alt="pandas" width="42px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg"/>][pandas]
-[<img align="left" alt="NumPy" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"/>][NumPy]
+[<img align="left" alt="python" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png"/>][python]
+[<img align="left" alt="tensorflow" width="58px" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.png"/>][tensorflow]
 [<img align="left" alt="jupyter" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/200px-Jupyter_logo.svg.png"/>][jupyter]
 [<img align="left" alt="spyder" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/200px-Spyder_logo.svg.png"/>][spyder]
 <!-- LANGUAGES-AND-TOOLS:END -->
@@ -53,5 +52,6 @@
 [spyder]: https://en.wikipedia.org/wiki/Spyder_(software)
 [hackerrank]: https://www.hackerrank.com/drystuffs
 [leetcode]: https://leetcode.com/kallolathome/
-[NumPy]: https://en.wikipedia.org/wiki/NumPy
+[numpy]: https://en.wikipedia.org/wiki/NumPy
 [pandas]: https://en.wikipedia.org/wiki/Pandas_(software)
+[tensorflow]: https://en.wikipedia.org/wiki/TensorFlow
