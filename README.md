@@ -31,6 +31,7 @@
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 
+- [Easy way to overcome standard hierarchy lock of the Cost Center during mass creation](https://blogs.sap.com/2021/06/28/easy-way-to-overcome-standard-hierarchy-lock-of-the-cost-center-during-mass-creation/)
 - [Easy way to download internal table data to an Excel file in the Presentation Server](https://blogs.sap.com/2021/06/09/easy-way-to-download-internal-table-data-to-an-excel-file-in-the-presentation-server/)
 - [Easy ways to create and populate range tables in ABAP 7.4 onwards](https://blogs.sap.com/2021/05/19/easy-ways-to-populate-range-tables-in-abap/)
 - [Easy way to populate/fetch column names from internal table](https://blogs.sap.com/2021/03/24/easy-way-to-populate-fetch-column-names-from-internal-table/)
