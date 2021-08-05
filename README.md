@@ -2,8 +2,8 @@
 
 ## I'm a Developer and a ML enthusiast!
 - 🔭 I’m currently working as a SAP ABAP Developer
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of ML.
+- 🌱 I’m currently learning to become a full stack SAP developer.
+- 🥅 2021 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP.
 - ⚡ Fun facts: I love drawing, playing guitar, doing digital art & photography.
 
 ### Connect with me:
