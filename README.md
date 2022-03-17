@@ -1,8 +1,8 @@
 ### Hi there, I'm Kallol
 
 ## I'm a SAP ABAP Developer!
-- 🌱 I’m learning to become a full stack SAP developer.
-- 🥅 2021 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP.
+- 🌱 I want to become a full stack SAP developer.
+- 🥅 2022 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP.
 - ⚡ Fun facts: I love playing guitar & photography.
 
 ### Connect with me:
