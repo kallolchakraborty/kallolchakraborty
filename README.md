@@ -17,8 +17,6 @@
 
 [<img align="left" alt="SAP" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/64px-SAP_2011_logo.svg.png"/>][sapabap]
 [<img align="left" alt="eclipse" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
-
-[<img align="left" alt="cpp" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/500px-ISO_C%2B%2B_Logo.svg.png"/>][cpp]
 [<img align="left" alt="javascript" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>][javascript]
 
 <!-- LANGUAGES-AND-TOOLS:END -->
