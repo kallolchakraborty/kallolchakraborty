@@ -1,9 +1,9 @@
 ### Hi there, I'm Kallol
 
-## I'm a SAP Cloud Developer!
-- 🌱 I want to become a full stack SAP developer.
-- 🥅 2022 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP.
-- ⚡ Fun facts: I love playing guitar & photography.
+## I'm a SAP BTP Developer!
+- 🌱 I am fun loving guy. 
+- 🥅 2023 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP BTP.
+- ⚡ Fun facts: I love playing guitar.
 
 ### Connect with me:
 
@@ -18,6 +18,7 @@
 [<img align="left" alt="SAP" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/64px-SAP_2011_logo.svg.png"/>][sapabap]
 [<img align="left" alt="eclipse" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
 [<img align="left" alt="javascript" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>][javascript]
+[<img align="left" alt="python" width="42px" src="https://en.wikipedia.org/wiki/Python_(programming_language)"/>][python]
 
 <!-- LANGUAGES-AND-TOOLS:END -->
 <br />
