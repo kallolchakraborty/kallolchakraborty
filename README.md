@@ -1,28 +1,21 @@
-### Hi there, I'm Kallol
+# <img src="https://media.giphy.com/media/hvRJCLFzofOCrQHMGH/giphy.gif" width="30"> Hi there! I'm Kallol Chakraborty
 
-## I'm a SAP BTP Developer!
-- 🌱 I am fun loving guy. 
-- 🥅 2023 Goals: Brushing up my skills on algorithms & data structures. Upskilling myself in the field of SAP BTP.
-- ⚡ Fun facts: I love playing guitar.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=Senior+SAP+Developer;BTP+Solution+Architect;ABAP+Cloud+%26+RAP+Expert;Continuous+Learner+%26+Blogger" alt="Typing SVG" />
+</p>
 
-### Connect with me:
+---
 
-[<img align="left" alt="LinkedIn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+### 👨‍💻 About Me
 
-<br />
-<br />
+I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedicated to building scalable, enterprise-grade applications. With extensive experience in **ABAP Cloud**, **RAP (RESTful ABAP Programming Model)**, and **SAP BTP**, I focus on delivering modern solutions that bridge the gap between business needs and technical excellence.
 
-### Languages and Tools:
-<!-- LANGUAGES-AND-TOOLS:START -->
+- 🔭 I’m currently working on **BTP Integration & Clean Core Extensibility**.
+- 🌱 I’m also working on multiple POCs on **Generative AI in the SAP ecosystem**.
+- 💬 Ask me about **SAP BTP, CAPM, RAP, and Cloud Native Development**.
+- ⚡ Fun fact: I believe in the power of **Continuous Learning** and sharing knowledge through blogging.
 
-[<img align="left" alt="SAP" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/64px-SAP_2011_logo.svg.png"/>][sapabap]
-[<img align="left" alt="eclipse" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/200px-Eclipse-Luna-Logo.svg.png"/>][eclipse]
-[<img align="left" alt="javascript" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>][javascript]
-
-
-<!-- LANGUAGES-AND-TOOLS:END -->
-<br />
-<br />
+---
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
@@ -37,19 +30,76 @@
 - [Easy way to sort an internal table in ascending & descending order both at the same time](https://blogs.sap.com/2020/07/28/easy-way-to-sort-an-internal-table-in-ascending-descending-order-both-at-the-same-time/)
 - [Easy way to hide/disable elements(Texts/Fields) in a View of a Web Dynpro Application](https://blogs.sap.com/2020/07/23/easy-way-to-hide-fields-in-a-view-of-a-web-dynpro-application/)
 - [Easy way to default position details in IT0000 screen through PA40, if EG/ESG/PERSA is changed at the OM side](https://blogs.sap.com/2020/07/20/easy-way-to-default-position-details-in-it0000-screen-through-pa40-if-eg-esg-persa-is-changed-at-the-om-side./)
+
 <!-- BLOG-POST-LIST:END -->
 
-[instagram]: https://www.instagram.com/drystuffs/
-[linkedin]: https://www.linkedin.com/in/kallol-chakraborty-9728a699/
-[sapabap]: https://en.wikipedia.org/wiki/ABAP
-[eclipse]: https://en.wikipedia.org/wiki/Eclipse_(software)
-[python]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[jupyter]: https://en.wikipedia.org/wiki/Project_Jupyter
-[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[spyder]: https://en.wikipedia.org/wiki/Spyder_(software)
-[hackerrank]: https://www.hackerrank.com/drystuffs
-[leetcode]: https://leetcode.com/kallolathome/
-[numpy]: https://en.wikipedia.org/wiki/NumPy
-[pandas]: https://en.wikipedia.org/wiki/Pandas_(software)
-[tensorflow]: https://en.wikipedia.org/wiki/TensorFlow
-[javascript]: https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg
+---
+
+### 🛡️ Verified Certifications & Badges (Active Only)
+
+<div align="center">
+
+| Badges | Badges | Badges |
+| :---: | :---: | :---: |
+| <a href="https://www.credly.com/badges/60c9592e-bf51-4fe5-a476-6a9b1e380fef"><img src="https://images.credly.com/images/3cfa3645-97f0-4744-83e3-1ce980460427/blob" width="90" alt="SAP Certified - SAP Fiori Application Developer"></a> | <a href="https://www.credly.com/badges/861ac073-cf42-4d9a-bd6d-6f2f73d565c7"><img src="https://images.credly.com/images/8ec1d8a3-1ebc-411b-855e-e56538f91b7d/blob" width="90" alt="SAP Certified - SAP Build Developer"></a> | <a href="https://www.credly.com/badges/de358bc3-01a9-4e4a-8404-185fb8f2014b"><img src="https://images.credly.com/images/1f77d707-1538-46fd-92e0-c49649da87dc/blob" width="90" alt="SAP Certified - SAP Generative AI Developer"></a> |
+| <a href="https://www.credly.com/badges/408b684c-9fc6-4f22-907c-c56c959aae10"><img src="https://images.credly.com/images/8cc68218-4b20-421f-803b-fa3769a9503f/blob" width="90" alt="SAP Certified - Solution Architect - SAP BTP"></a> | <a href="https://www.credly.com/badges/dca74d89-0653-4a0c-88d9-6c0c9331d20e"><img src="https://images.credly.com/images/5489be1c-ce49-4cf3-8b24-eee50e5259be/blob" width="90" alt="SAP Certified - Back-End Developer - ABAP Cloud"></a> | <a href="https://www.credly.com/badges/0b892442-4f98-4e24-9a1d-17777718e279"><img src="https://images.credly.com/images/a4b6c832-f3f3-46ce-88de-9405aa0fa389/blob" width="90" alt="SAP Certified - Integration Developer"></a> |
+| <a href="https://www.credly.com/badges/aab64f84-c276-4e74-8fe2-b46f49bbb83b"><img src="https://images.credly.com/images/ef7260ce-47be-4149-a758-d63b39d55049/image.png" width="90" alt="Technology Knowledge 2022 - SAP BTP ABAP Environment Expert"></a> | <a href="https://www.credly.com/badges/bf5a8a6d-8ff7-447d-97b3-81a9c4ba1b2f"><img src="https://images.credly.com/images/4305d624-94e5-42bc-9062-caf339e8e008/image.png" width="90" alt="Hack2Build - Hackathon Finalist Award"></a> | <a href="https://www.credly.com/badges/d1f01dfb-f03b-4f6f-84c5-0671eed27440"><img src="https://images.credly.com/images/48b7085d-f1c5-4575-a1e2-3ad4fbcd3edc/blob" width="90" alt="SAP S/4HANA Cloud, ABAP Environment Bootcamp"></a> |
+| <a href="https://www.credly.com/badges/b04a9d84-2324-4180-b804-2a36d76eddf1"><img src="https://images.credly.com/images/0e5294d3-aa48-4a91-b30b-84fe4ee74749/blob" width="90" alt="SAP Certified - Backend Developer - CAPM"></a> | <a href="https://www.credly.com/badges/cc6cbca7-985c-4c7a-ac92-e789cb553ded"><img src="https://images.credly.com/images/2b0a7f5f-8e61-4bef-af74-9cb52c667325/blob" width="90" alt="Exploring SAP BTP - Record of Achievement"></a> | <a href="https://www.credly.com/badges/7e3faec4-3897-48b9-a220-b5ba0365ecc7"><img src="https://images.credly.com/images/55f89e19-3b58-4c9a-8562-caabeb20b63a/Application_Development_for_SAP_HANA_Cloud_2021.png" width="90" alt="SAP HANA Cloud - Application Development"></a> |
+| <a href="https://www.credly.com/badges/c5448d09-6667-4df9-ac64-c3225e1d72fd"><img src="https://images.credly.com/images/aee2eff8-b726-4a9a-9b2d-69d49c644fa2/1625.png" width="90" alt="Developing with SAP BTP ABAP Environment"></a> | <a href="https://www.credly.com/badges/9041f671-9b62-4147-9dfa-9d231525c2c8"><img src="https://images.credly.com/images/bb43a4d7-c25f-4be3-9a4e-4ff4da41f5d2/image.png" width="90" alt="Hack2Build - Hackathon Winner Award"></a> | |
+
+</div>
+
+---
+
+### 🚀 Technologies & Tools
+
+#### **Core Tech Stack**
+![SAP BTP Integration Suite](https://img.shields.io/badge/SAP%20BTP%20Integration%20Suite-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Build](https://img.shields.io/badge/SAP%20Build-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![SAP RAP](https://img.shields.io/badge/SAP%20RAP-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori Elements](https://img.shields.io/badge/SAP%20Fiori%20Elements-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![SAP CAPM](https://img.shields.io/badge/SAP%20CAPM-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### **Development Tools**
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ADT](https://img.shields.io/badge/SAP%20ADT-0faaff?style=for-the-badge&logo=sap&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallolchakraborty&theme=nord" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kallol-chakraborty-9728a699/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/kallolchakraborty">Kallol Chakraborty</a>
+</p>
