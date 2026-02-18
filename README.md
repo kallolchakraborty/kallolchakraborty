@@ -86,17 +86,6 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kallolchakraborty&theme=nord" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Connect with me on  <a href="https://www.linkedin.com/in/kallol-chakraborty-9728a699/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="20" height="20" /></a>
 
 <p align="center">
@@ -106,4 +95,5 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 <p align="center">
   Made with ❤️ by <a href="https://github.com/kallolchakraborty">Kallol Chakraborty</a>
 </p>
+
 
