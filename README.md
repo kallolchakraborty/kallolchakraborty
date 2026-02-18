@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"> Hi there! I'm Kallol Chakraborty
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=Senior+SAP+Developer;BTP+Solution+Architect;ABAP+Cloud+%26+RAP+Developer;Continuous+Learner+%26+Blogger" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=1000&color=0FAAFF&center=true&vCenter=true&width=600&lines=Developer;BTP+Solution+Architect;ABAP+On+Cloud+Developer;Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -106,3 +106,4 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 <p align="center">
   Made with ❤️ by <a href="https://github.com/kallolchakraborty">Kallol Chakraborty</a>
 </p>
+
