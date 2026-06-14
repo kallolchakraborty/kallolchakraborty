@@ -83,7 +83,7 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 | **Enterprise & SAP Cloud** | ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0faaff?style=flat-square&logo=sap&logoColor=white) ![SAP RAP](https://img.shields.io/badge/SAP%20RAP-0faaff?style=flat-square&logo=sap&logoColor=white) ![SAP CAPM](https://img.shields.io/badge/SAP%20CAPM-0faaff?style=flat-square&logo=sap&logoColor=white) ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0faaff?style=flat-square&logo=sap&logoColor=white) ![SAP Build](https://img.shields.io/badge/SAP%20Build-0faaff?style=flat-square&logo=sap&logoColor=white) ![SAP HANA Cloud](https://img.shields.io/badge/SAP%20HANA%20Cloud-0faaff?style=flat-square&logo=sap&logoColor=white) |
 | **Languages & Runtimes** | ![ABAP](https://img.shields.io/badge/ABAP-01A4FF?style=flat-square&logo=sap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Frameworks & Databases** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Generative AI & Agentic workflow** | ![Pieces](https://img.shields.io/badge/Pieces-222222?style=flat-square&logo=pieces&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| **Generative AI & Agentic workflow** | ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Opencode](https://img.shields.io/badge/Opencode-181717?style=flat-square&logo=github&logoColor=white) ![Cline](https://img.shields.io/badge/Cline-FF5722?style=flat-square&logo=codeforces&logoColor=white) ![Continue](https://img.shields.io/badge/Continue-000000?style=flat-square&logo=gitbook&logoColor=white) ![Pieces](https://img.shields.io/badge/Pieces-222222?style=flat-square&logo=pieces&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white) ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 | **DevOps & Developer Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) |
 
 ---
@@ -108,18 +108,19 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kallolchakraborty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kallol's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolchakraborty&layout=compact&theme=tokyonight&hide_border=true" alt="Kallol's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kallolchakraborty&show_icons=true&bg_color=0d1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kallolchakraborty&show_icons=true&bg_color=ffffff&title_color=007acc&icon_color=007acc&text_color=24292f&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kallolchakraborty&show_icons=true&bg_color=0d1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolchakraborty&layout=compact&bg_color=0d1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolchakraborty&layout=compact&bg_color=ffffff&title_color=007acc&icon_color=007acc&text_color=24292f&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallolchakraborty&layout=compact&bg_color=0d1117&title_color=0FAAFF&icon_color=0FAAFF&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
+  </picture>
+</p>
 
 ---
 
