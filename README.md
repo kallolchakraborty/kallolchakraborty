@@ -133,14 +133,7 @@ I am a passionate **Senior SAP Developer** and **BTP Solution Architect** dedica
 </div>
 
 <br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/kallolchakraborty">Kallol Chakraborty</a>
-</p>
-
-
 
