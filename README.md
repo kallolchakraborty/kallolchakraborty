@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.credly.com/badges/408b684c-9fc6-4f22-907c-c56c959aae10" target="_blank"><img src="https://img.shields.io/badge/Hack2Build%20 Americas%20Winner-FFA500?style=flat&logo=trophy&logoColor=white" alt="Hack2Build Winner" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/9041f671-9b62-4147-9dfa-9d231525c2c8" target="_blank"><img src="https://img.shields.io/badge/Hack2Build%20Americas%20Winner-FFA500?style=flat&logo=trophy&logoColor=white" alt="Hack2Build Americas Winner" /></a></td>
     <td align="center"><a href="https://www.credly.com/users/kallol-chakraborty.a1afdc6b/badges/credly" target="_blank"><img src="https://img.shields.io/badge/7×%20SAP%20Certified-0078D4?style=flat&logo=sap&logoColor=white" alt="7x SAP Certified" /></a></td>
     <td align="center"><img src="https://img.shields.io/badge/SAP%20CAP%20%2B%20Gen%20AI-43B02A?style=flat" alt="SAP CAP & Gen AI" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Kolkata,%20India-555555?style=flat" alt="Location" /></td>
