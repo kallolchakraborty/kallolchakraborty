@@ -1,0 +1,27 @@
+name: Top Languages
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: ["19 9 * * *"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Generate top languages
+        run: node scripts/top-langs.js top-languages.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate top-languages.svg"
+          file_pattern: top-languages.svg

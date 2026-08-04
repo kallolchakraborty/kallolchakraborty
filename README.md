@@ -24,7 +24,28 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td colspan="3" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kallolchakraborty&theme=github&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://streak-stats.demolab.com?user=kallolchakraborty&theme=github-dark&hide_border=true" alt="GitHub Streak" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/kallolchakraborty/kallolchakraborty/master/top-languages.svg" alt="Top Languages" /></td>
+    <td align="center"><img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat&label=PROFILE+VIEWS" alt="Profile Views" /></td>
+  </tr>
+</table>
+
 </div>
+
+---
+
+### 🛠️ Currently building
+
+- **STO360** — SAP-certified Oil & Gas M&A platform on SAP BTP (Zero-to-production product led end-to-end).
+- **Project Chhanda** — Local-first LLM gateway with on-device AI collab ecosystem.
+- **lgit** — Semantic version control for AI-native workflows.
+
+[![Portfolio](https://img.shields.io/badge/📊%20Portfolio-111827?style=flat&logoColor=white)](https://kallolchakraborty.github.io/website/)
 
 ---
 
@@ -125,10 +146,6 @@ Deep expertise spans **SAP CAP (Node.js)**, **Python microservices**, **ABAP/RAP
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
 <!--
 Note: GitHub Markdown rendering strips embedded <style> tags and inline style=""
