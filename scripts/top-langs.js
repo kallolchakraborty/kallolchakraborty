@@ -64,32 +64,35 @@ if (entries.length === 0) {
   return;
 }
 
-const W = 520;
+const W = 620;
 const rows = entries.length;
 const barH = 22;
-const gap = 11;
-const topPad = 40;
-const botPad = 16;
-const leftPad = 96;
+const gap = 10;
+const topPad = 44;
+const botPad = 18;
+const leftPad = 110;
 const barW = W - leftPad - 24;
 const H = topPad + rows * (barH + gap) + botPad - gap;
 const maxVal = entries[0][1];
+const FF = 'ui-sans,system-ui,-apple-system,Segoe UI,Helvetica,Arial';
 
 function esc(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;');
 }
 
 const parts = [];
-parts.push(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Top Languages"><rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#222" stroke-width="1"/><text x="${leftPad}" y="24" font-family="ui-sans,system-ui,-apple-system,Segoe UI,Helvetica,Arial" font-size="15" font-weight="600" fill="#fff">Top Languages</text>`);
+parts.push(`<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Top Languages"><rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#222" stroke-width="1"/><text x="540" y="26" font-family="${FF}" font-size="13" font-weight="600" fill="#fff" text-anchor="end">Top Languages</text>`);
 
 entries.forEach(([name, count], i) => {
   const y = topPad + i * (barH + gap);
   const w = Math.round((count / maxVal) * barW);
-  parts.push(`<rect x="${leftPad}" y="${y}" width="${w}" height="${barH}" rx="4" fill="#${colors[name] || '8b949e'}"/>`);
-  parts.push(`<text x="${leftPad + w + 8}" y="${y + 15}" font-family="ui-sans,system-ui,-apple-system,Segoe UI,Helvetica,Arial" font-size="12" fill="#c9d1d9">${esc(name)} ${count}</text>`);
+  const col = colors[name] || '8b949e';
+  parts.push(`<rect x="${leftPad}" y="${y}" width="${w}" height="${barH}" rx="4" fill="#${col}"/>`);
+  parts.push(`<text x="12" y="${y + 15}" font-family="${FF}" font-size="12" fill="#c9d1d9">${esc(name)}</text>`);
+  parts.push(`<text x="${W - 12}" y="${y + 15}" font-family="${FF}" font-size="12" fill="#8b949e" text-anchor="end">${count}</text>`);
 });
 
-parts.push(`<text x="10" y="${H - 4}" font-family="ui-sans,system-ui,-apple-system,Segoe UI,Helvetica,Arial" font-size="11" fill="#6e7681">${repoCount} public repos • ${entries.length} languages shown</text>`);
+parts.push(`<text x="12" y="${H - 6}" font-family="${FF}" font-size="11" fill="#6e7681">${repoCount} public repos • ${entries.length} languages shown</text>`);
 parts.push('</svg>');
 
 require('fs').writeFileSync(process.argv[2], parts.join(''), 'utf8');
