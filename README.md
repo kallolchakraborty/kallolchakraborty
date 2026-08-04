@@ -24,6 +24,8 @@
   </tr>
 </table>
 
+<h2 align="center">📊 GitHub at a Glance</h2>
+
 <table>
   <tr>
     <td colspan="3" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kallolchakraborty&theme=github&hide_border=true&area=true&custom_title=📊%20Contribution%20Activity" width="100%" alt="Contribution Activity Graph" /></td>
@@ -33,16 +35,13 @@
 <table>
   <tr>
     <td align="center" width="33.33%">
-      <img src="https://streak-stats.demolab.com?user=kallolchakraborty&theme=github-dark&hide_border=true&border_radius=10&area=true&dates=7D7D7D" width="320" alt="GitHub Streak" />
-      <h4 align="center">🔥 Streak & Contributions</h4>
+      <img src="https://streak-stats.demolab.com?user=kallolchakraborty&theme=github-dark&hide_border=true&border_radius=10&area=true&dates=7D7D7D" width="300" alt="GitHub Streak" />
     </td>
     <td align="center" width="33.33%">
-      <img src="https://raw.githubusercontent.com/kallolchakraborty/kallolchakraborty/master/top-languages.svg" width="320" alt="Top Languages" />
-      <h4 align="center">💻 Top Languages</h4>
+      <img src="https://raw.githubusercontent.com/kallolchakraborty/kallolchakraborty/master/top-languages.svg" width="300" alt="Top Languages" />
     </td>
     <td align="center" width="33.33%">
       <img src="https://komarev.com/ghpvc/?username=kallolchakraborty&color=0faaff&style=flat&label=PROFILE%20VIEWS" alt="Profile Views" />
-      <h4 align="center">👁️ Profile Views</h4>
     </td>
   </tr>
 </table>
