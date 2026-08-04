@@ -83,13 +83,27 @@ Deep expertise spans **SAP CAP (Node.js)**, **Python microservices**, **ABAP/RAP
 
 ### 🚀 Technical Proficiencies
 
-| Category | Skills & Technology Badges |
-| :--- | :--- |
-| **Enterprise & SAP Cloud** | ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-008FD3?style=flat&logo=sap&logoColor=white) ![SAP RAP](https://img.shields.io/badge/SAP%20RAP-008FD3?style=flat&logo=sap&logoColor=white) ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-008FD3?style=flat&logo=sap&logoColor=white) ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-008FD3?style=flat&logo=sap&logoColor=white) ![SAP Build](https://img.shields.io/badge/SAP%20Build-008FD3?style=flat&logo=sap&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP%20HANA%20Cloud-008FD3?style=flat&logo=sap&logoColor=white) |
-| **Languages & Runtimes** | ![ABAP](https://img.shields.io/badge/ABAP-01A4FF?style=flat&logo=sap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Frameworks & Databases** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Generative AI & Agentic workflows** | ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat&logo=google&logoColor=white) ![Opencode](https://img.shields.io/badge/Opencode-181717?style=flat&logo=github&logoColor=white) ![Cline](https://img.shields.io/badge/Cline-FF5722?style=flat&logo=codeforces&logoColor=white) ![Continue](https://img.shields.io/badge/Continue-000000?style=flat&logo=gitbook&logoColor=white) ![Pieces](https://img.shields.io/badge/Pieces-222222?style=flat&logo=pieces&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=openai&logoColor=white) ![Amazon Q](https://img.shields.io/badge/Amazon%20Q-FF9900?style=flat&logo=amazonaws&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) |
-| **DevOps & Developer Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) |
+> *Level: 🟠 EXPERT · 🟣 ADVANCED · ⚪ WORKING*
+
+#### 🔷 Generative AI & LLMs
+*LLM-powered enterprise automation, retrieval, on-device inference & agent skill engines*
+
+`🟣 Gen AI` `🟣 RAG` `⚪ Gemma 4` `⚪ Vector Search` `⚪ Joule / Gemini / ChatGPT` `🟣 Agent Skill Engines (ABAP/CAP/Systems)`
+
+#### 🟠 SAP Ecosystem
+*SAP BTP cloud-native extension & core-integration specialist*
+
+`🟠 ABAP / RAP` `🟠 SAP BTP` `🟠 SAP S/4HANA` `🟠 SAP HCM` `🟣 CAP (Node.js)` `🟣 HANA Cloud` `🟣 Integration Suite` `🟣 OData / CDS Views` `🟠 Clean Core` `🟣 ABAP Environment` `⚪ SAP Build`
+
+#### 🟢 Backend & Cloud-Native
+*Event-driven microservices, API security & infrastructure as code*
+
+`🟣 Python (FastAPI / Flask)` `🟣 Node.js (Express)` `🟣 Event Mesh / CloudEvents` `⚪ Microservices` `⚪ OAuth2 / OIDC / XSUAA` `⚪ Terraform (IaC)`
+
+#### 🔵 Languages & Tooling
+*Engineering rigor: testing, static analysis & source control*
+
+`⚪ JavaScript` `⚪ Git / GitHub / Azure Repos` `🟣 CI/CD (GitHub Actions)` `⚪ Jest / Chai / pytest` `⚪ SonarQube / ATC`
 
 ---
 
