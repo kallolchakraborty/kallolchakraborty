@@ -125,7 +125,7 @@ Deep expertise spans **SAP CAP (Node.js)**, **Python microservices**, **ABAP/RAP
 #### 🟠 SAP Ecosystem
 *SAP BTP cloud-native extension & core-integration specialist*
 
-`🟠 ABAP / RAP` `🟠 SAP BTP` `🟠 SAP S/4HANA` `🟠 SAP HCM` `🟣 CAP (Node.js)` `🟣 HANA Cloud` `🟣 Integration Suite` `🟣 OData / CDS Views` `🟠 Clean Core` `🟣 ABAP Environment` `⚪ SAP Build`
+`🟠 ABAP / RAP` `🟠 SAP BTP` `🟠 SAP S/4HANA` `🟠 SAP HCM` `🟣 CAP (Node.js)` `🟣 HANA Cloud` `🟣 Integration Suite` `🟣 OData / CDS Views` `🟠 Clean Core` `🟣 ABAP Environment` `🟣 SAP Fiori / UI5` `⚪ SAP Build`
 
 #### 🟢 Backend & Cloud-Native
 *Event-driven microservices, API security & infrastructure as code*
