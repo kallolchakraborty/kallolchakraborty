@@ -113,29 +113,47 @@ Deep expertise spans **SAP CAP (Node.js)**, **Python microservices**, **ABAP/RAP
 
 ---
 
+### 📦 Latest Projects
+
+AI code-review guardian engines — production-grade, evidence-backed, 100% original. Built with ABAP/RAP, SAP CAP, Python, and SAP Fiori design-system rules.
+
+<div align="center">
+  <a href="https://github.com/kallolchakraborty/FIORI-guardian" target="_blank"><img src="https://img.shields.io/badge/FIORI%20Guardian-18171B?style=flat&logo=github&logoColor=white" alt="FIORI Guardian"></a>
+  <a href="https://github.com/kallolchakraborty/python-guardian" target="_blank"><img src="https://img.shields.io/badge/Python%20Guardian-18171B?style=flat&logo=github&logoColor=white" alt="Python Guardian"></a>
+  <a href="https://github.com/kallolchakraborty/CAP-guardian" target="_blank"><img src="https://img.shields.io/badge/CAP%20Guardian-18171B?style=flat&logo=github&logoColor=white" alt="CAP Guardian"></a>
+  <a href="https://github.com/kallolchakraborty/ABAP-guardian" target="_blank"><img src="https://img.shields.io/badge/ABAP%20Guardian-18171B?style=flat&logo=github&logoColor=white" alt="ABAP Guardian"></a>
+</div>
+
+---
+
 ### 🚀 Technical Proficiencies
 
-> *Level: 🟠 EXPERT · 🟣 ADVANCED · ⚪ WORKING*
+*Proficiency level is encoded on each badge.*
 
 #### 🔷 Generative AI & LLMs
 *LLM-powered enterprise automation, retrieval, on-device inference & agent skill engines*
 
-`🟣 Gen AI` `🟣 RAG` `⚪ Gemma 4` `⚪ Vector Search` `⚪ Joule / Gemini / ChatGPT` `🟣 Agent Skill Engines (ABAP/CAP/Systems)`
+![Gen AI – Advanced](https://img.shields.io/badge/Gen%20AI-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![RAG – Advanced](https://img.shields.io/badge/RAG-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Gemma 4 – Working](https://img.shields.io/badge/Gemma%204-Working-94a3b8?style=flat&labelColor=111827&logoColor=white) ![Vector Search – Working](https://img.shields.io/badge/Vector%20Search-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
+![Joule / Gemini / ChatGPT – Working](https://img.shields.io/badge/Joule%20%2F%20Gemini%20%2F%20ChatGPT-Working-94a3b8?style=flat&labelColor=111827&logoColor=white) ![Agent Skill Engines – Advanced](https://img.shields.io/badge/Agent%20Skill%20Engines-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white)
 
 #### 🟠 SAP Ecosystem
 *SAP BTP cloud-native extension & core-integration specialist*
 
-`🟠 ABAP / RAP` `🟠 SAP BTP` `🟠 SAP S/4HANA` `🟠 SAP HCM` `🟣 CAP (Node.js)` `🟣 HANA Cloud` `🟣 Integration Suite` `🟣 OData / CDS Views` `🟠 Clean Core` `🟣 ABAP Environment` `🟣 SAP Fiori / UI5` `⚪ SAP Build`
+![ABAP / RAP – Expert](https://img.shields.io/badge/ABAP%20%2F%20RAP-Expert-ea580c?style=flat&labelColor=111827&logoColor=white) ![SAP BTP – Expert](https://img.shields.io/badge/SAP%20BTP-Expert-ea580c?style=flat&labelColor=111827&logoColor=white) ![SAP S/4HANA – Expert](https://img.shields.io/badge/SAP%20S%2F4HANA-Expert-ea580c?style=flat&labelColor=111827&logoColor=white) ![SAP HCM – Expert](https://img.shields.io/badge/SAP%20HCM-Expert-ea580c?style=flat&labelColor=111827&logoColor=white)
+![CAP (Node.js) – Advanced](https://img.shields.io/badge/CAP%20%28Node.js%29-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![HANA Cloud – Advanced](https://img.shields.io/badge/HANA%20Cloud-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Integration Suite – Advanced](https://img.shields.io/badge/Integration%20Suite-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![OData / CDS Views – Advanced](https://img.shields.io/badge/OData%20%2F%20CDS%20Views-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white)
+![Clean Core – Expert](https://img.shields.io/badge/Clean%20Core-Expert-ea580c?style=flat&labelColor=111827&logoColor=white) ![ABAP Environment – Advanced](https://img.shields.io/badge/ABAP%20Environment-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![SAP Fiori / UI5 – Advanced](https://img.shields.io/badge/SAP%20Fiori%20%2F%20UI5-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![SAP Build – Working](https://img.shields.io/badge/SAP%20Build-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
 
 #### 🟢 Backend & Cloud-Native
 *Event-driven microservices, API security & infrastructure as code*
 
-`🟣 Python (FastAPI / Flask)` `🟣 Node.js (Express)` `🟣 Event Mesh / CloudEvents` `⚪ Microservices` `⚪ OAuth2 / OIDC / XSUAA` `⚪ Terraform (IaC)`
+![Python / FastAPI / Flask – Advanced](https://img.shields.io/badge/Python%20%2F%20FastAPI%20%2F%20Flask-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Node.js / Express – Advanced](https://img.shields.io/badge/Node.js%20%2F%20Express-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Event Mesh / CloudEvents – Advanced](https://img.shields.io/badge/Event%20Mesh%20%2F%20CloudEvents-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Microservices – Working](https://img.shields.io/badge/Microservices-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
+![OAuth2 / OIDC / XSUAA – Working](https://img.shields.io/badge/OAuth2%20%2F%20OIDC%20%2F%20XSUAA-Working-94a3b8?style=flat&labelColor=111827&logoColor=white) ![Terraform (IaC) – Working](https://img.shields.io/badge/Terraform%20%28IaC%29-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
 
 #### 🔵 Languages & Tooling
 *Engineering rigor: testing, static analysis & source control*
 
-`⚪ JavaScript` `⚪ Git / GitHub / Azure Repos` `🟣 CI/CD (GitHub Actions)` `⚪ Jest / Chai / pytest` `⚪ SonarQube / ATC`
+![JavaScript – Working](https://img.shields.io/badge/JavaScript-Working-94a3b8?style=flat&labelColor=111827&logoColor=white) ![Git / GitHub / Azure Repos – Working](https://img.shields.io/badge/Git%20%2F%20GitHub%20%2F%20Azure%20Repos-Working-94a3b8?style=flat&labelColor=111827&logoColor=white) ![CI/CD (GitHub Actions) – Advanced](https://img.shields.io/badge/CI%2FCD%20%28GitHub%20Actions%29-Advanced-7c3aed?style=flat&labelColor=111827&logoColor=white) ![Jest / Chai / pytest – Working](https://img.shields.io/badge/Jest%20%2F%20Chai%20%2F%20pytest-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
+![SonarQube / ATC – Working](https://img.shields.io/badge/SonarQube%20%2F%20ATC-Working-94a3b8?style=flat&labelColor=111827&logoColor=white)
 
 ---
 
